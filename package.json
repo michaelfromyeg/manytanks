@@ -1,0 +1,16 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "A tank game using WebRTC, built for TOHacks 2020.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webrtc",
+    "tanks",
+    "game"
+  ],
+  "author": "Michael DeMarco",
+  "license": "ISC"
+}
